@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Venkatesh, and I'm currently learning web development. I'm interested in experimentation and exploring new technologies.
+I'm Venkatesh (you can call me Venkatesh9), and I'm currently learning web development. I'm interested in experimentation and exploring new technologies.
 
 ### Technologies
 
-I'm currently focusing on JavaScript, and I'm looking forward to learning more about it. I'm also interested in other web technologies and frameworks.
+I'm familiar with JavaScript, HTML, and CSS, and I'm currently learning Node.js. I'm excited to continue developing my skills and building full-stack applications.
 
 ### Projects
 
@@ -12,8 +12,8 @@ I don't have any open-source projects or contributions to highlight yet, but I'm
 
 ### Development Philosophy
 
-I'm still figuring out my development philosophy, but I prefer to build things from scratch rather than using frameworks. I believe that this approach helps me better understand the underlying technologies and principles.
+I prefer to build things from scratch rather than using frameworks. I believe that this approach helps me better understand the underlying technologies and principles.
 
 ### Contact Me
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project! You can email me at [k.venkatesh.rules@gmail.com](mailto:k.venkatesh.rules@gmail.com).
+Feel free to reach out to me if you have any questions or want to collaborate on a project! You can email me at [yourgmailaddress@gmail.com](mailto:yourgmailaddress@gmail.com).
