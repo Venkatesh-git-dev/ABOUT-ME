@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Venkatesh (you can call me Venkatesh9), and I'm currently learning web development. I'm interested in experimentation and exploring new technologies.
+I'm Venkatesh, and I'm currently learning web development. I'm interested in experimentation and exploring new technologies.
 
 ### Technologies
 
