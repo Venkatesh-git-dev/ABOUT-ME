@@ -16,4 +16,4 @@ I prefer to build things from scratch rather than using frameworks. I believe th
 
 ### Contact Me
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project! You can email me at [yourgmailaddress@gmail.com](mailto:yourgmailaddress@gmail.com).
+Feel free to reach out to me if you have any questions or want to collaborate on a project! You can email me at [k.venkatesh.rules@gmail.com](mailto:k.venkatesh.rules@gmail.com).
